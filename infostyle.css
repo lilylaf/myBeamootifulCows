@@ -1,0 +1,44 @@
+h1, h2 {
+    background-image: url(https://image.shutterstock.com/image-vector/abstract-pink-cow-texture-design-260nw-339333632.jpg);
+    opacity: 0.7;
+    color: rgb(0, 0, 0);
+    background-color:lightpink;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+}
+header {
+    text-align: center;
+}
+body {
+    background-color: #f5a9b5;
+    color: rgb(27, 1, 22);
+    
+}
+nav {
+    background-image: url(https://image.shutterstock.com/image-vector/abstract-pink-cow-texture-design-260nw-339333632.jpg);
+    opacity: 0.7;
+    color: rgb(0, 0, 0);
+    background-color:lightpink;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+}
+
+form {
+    background-color: #f5a9b5;
+    background-image: url(img/pink_cows_seaml_4x.webp);
+    border-color: mediumvioletred;
+    border-style: solid;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+div {
+    text-align: center;
+    align-content: center;  
+    opacity: 0.8;
+}
+
+
+
+
